@@ -8,7 +8,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: #ee940c;
+    background-color: #54B094;
     font-family: Arial, sans-serif;
 }
 
@@ -17,7 +17,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #0cb4e7;
+    background-color: #54ACAF;
 }
 
 .cabecalho-link {
@@ -27,7 +27,12 @@ body {
 
 h1 {
     color: #0d0d0d;
-    font-size: 24px;
+    font-size: 25px;
+}
+
+h2 {
+    color: #0d0d0d;
+    font-size: 25px;
 }
 
 main {
@@ -45,7 +50,7 @@ main h2 {
 }
 
 footer {
-    background-color: #a5e70c;
+    background-color: #5490B0;
     padding: 15px 25px;
     color: #0b0b0b;
     text-align: center;
@@ -108,7 +113,7 @@ section {
 
 .cartao-frente p, .cartao-verso p {
     padding: 16px;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.5;
     color: #333;
     text-align: center;
