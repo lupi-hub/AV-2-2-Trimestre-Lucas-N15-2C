@@ -8,7 +8,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: #54B094;
+    background-color: #AAF5FF;
     font-family: Arial, sans-serif;
 }
 
@@ -17,7 +17,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #54ACAF;
+    background-color: #47C5D6;
 }
 
 .cabecalho-link {
@@ -32,7 +32,7 @@ h1 {
 
 h2 {
     color: #0d0d0d;
-    font-size: 25px;
+    font-size: 17.5px;
 }
 
 main {
@@ -50,7 +50,7 @@ main h2 {
 }
 
 footer {
-    background-color: #5490B0;
+    background-color: #007382;
     padding: 15px 25px;
     color: #0b0b0b;
     text-align: center;
