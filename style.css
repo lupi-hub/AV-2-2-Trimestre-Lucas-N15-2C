@@ -8,7 +8,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: #eeea0c;
+    background-color: #ee940c;
     font-family: Arial, sans-serif;
 }
 
@@ -17,7 +17,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #a5e70c;
+    background-color: #0cb4e7;
 }
 
 .cabecalho-link {
